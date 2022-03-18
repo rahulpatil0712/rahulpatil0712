@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
 <h3 align="center">#Programmer, #Web-Developer, #Learner</h3>
 
-- 🔭 I’m currently working on **Final Year #IT-Field_Work Project.**
+- 🔭 I’m currently working on **Final Year #Project.**
 
 - 🌱 I’m currently learning **#Adv-JAVA,#JAVASCRIPT,#NodeJS**
 
