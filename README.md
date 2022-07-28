@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Final Year #Project.**
 
-- 🌱 I’m currently learning **#Adv-JAVA,#JAVASCRIPT,#NodeJS**
+- 🌱 I’m currently learning **#JAVA,#Adv-JAVA,#JAVASCRIPT,#NodeJS**
 
 - 📫 How to reach me **patilrahul7122000@gmail.com**
 
